@@ -40,6 +40,7 @@
   ],
   "env": {
     "SITE_URL": {
+      "value": "myapplink12454.heroku.com",
       "description": "Base URL of the site. Has to be https://{app-name}.herokuapp.com.",
       "required": true
     },
